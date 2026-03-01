@@ -1,4 +1,4 @@
-# Título do Projeto
+# SISTEMA DE GERENCIAMENTO PARA ACADEMIAS
 
 `CURSO: Sistemas de Informação`
 
